@@ -1,6 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+I am Aayushi Shah from Mumbai, India. I am skilled in Full Stack Development, MERN, Javascript and its frameworks.
 
+### 😄 Pronouns
+She/Her
 
-- 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Node
-- 👯 I’m looking to collaborate on Open source projects
+### 🌱 What do I do?
+- ✔️ Though I hold Master's degree in Finance, I aspire to work as a programmer.
+
+- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
+
+### ⚡ One line that describes me best? 
+A hard working girl who enjoys good humour & coding.😉😉
+
+### 👯 My other interests
+I like playing board games🃏 & solving puzzles🧩.
+
+### 📫 How to reach me?
+Connect with me on [Twitter](https://twitter.com/AayuShah711) or [LinkedIn](www.linkedin.com/in/aayushah711/).
+
+### 💬 Want to know more about me?
+You can find my work on- [My portfolio](http://aayushah711.github.io/).
