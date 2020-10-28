@@ -15,7 +15,7 @@ A hard working girl who enjoys good humour & coding.😉😉
 ### 👯 Other interests
 I like playing board games🃏 & solving puzzles🧩.
 
-### 📫 How to reach me?
+### 📫 How can you reach me?
 Connect with me on [Twitter](https://twitter.com/AayuShah711) or [LinkedIn](https://www.linkedin.com/in/aayushah711/).
 
 ### 💬 Want to know more about me?
