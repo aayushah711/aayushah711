@@ -19,4 +19,4 @@ I like playing board games🃏 & solving puzzles🧩.
 Connect with me on [Twitter](https://twitter.com/AayuShah711) or [LinkedIn](https://www.linkedin.com/in/aayushah711/).
 
 ### 💬 Want to know more about me?
-You can find my work on- [My portfolio](http://aayushah711.github.io/).
+You can find my work on my [Portfolio](http://aayushah711.github.io/).
