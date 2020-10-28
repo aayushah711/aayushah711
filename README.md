@@ -12,7 +12,7 @@ She/Her
 ### ⚡ One line that describes me best? 
 A hard working girl who enjoys good humour & coding.😉😉
 
-### 👯 My other interests
+### 👯 Other interests
 I like playing board games🃏 & solving puzzles🧩.
 
 ### 📫 How to reach me?
