@@ -5,7 +5,7 @@ I am Aayushi Shah from Mumbai, India. I am skilled in Full Stack Development, ME
 She/Her
 
 ### 🌱 What do I do?
-- ✔️ Though I hold Master's degree in Finance, I aspire to work as a programmer.
+- ✔️ Finance grad turned techie.
 
 - ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
 
