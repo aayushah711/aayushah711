@@ -7,7 +7,7 @@ She/Her
 ### 🌱 What do I do?
 - ✔️ Finance grad turned techie.
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
+- ✔️I'm a fast learner looking for interesting career opportunities in Web as a backend developer. 
 
 ### ⚡ One line that describes me best? 
 Passionate about backend development & likes humour.😉😉
