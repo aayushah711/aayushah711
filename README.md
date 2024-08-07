@@ -10,7 +10,7 @@ She/Her
 - ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
 
 ### ⚡ One line that describes me best? 
-A hard working girl who enjoys good humour & coding.😉😉
+Passionate about backend development & likes humour.😉😉
 
 ### 👯 Other interests
 I like playing board games🃏 & solving puzzles🧩.
